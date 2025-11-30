@@ -1,2 +1,35 @@
-[2025-11-11 08:59:28,943: INFO: main]: Welcome to Kidney Disease Classification
-[2025-11-29 20:17:05,756: INFO: main]: Welcome to Kidney Disease Classification
+[2025-11-30 09:47:31,164: INFO: common]: yaml file: ../config/config.yaml loaded successfully
+[2025-11-30 09:47:31,166: INFO: common]: yaml file: ../params.yaml loaded successfully
+[2025-11-30 09:50:55,463: INFO: common]: yaml file: ../config/config.yaml loaded successfully
+[2025-11-30 09:50:55,464: INFO: common]: yaml file: ../params.yaml loaded successfully
+[2025-11-30 09:50:55,467: INFO: common]: created directory at: artifacts
+[2025-11-30 09:50:55,467: INFO: 329316465]: Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_URL='https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion')
+[2025-11-30 09:50:55,467: INFO: 185457943]: Downloading file from :[https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing] to :[artifacts/data_ingestion/data.zip]
+[2025-11-30 09:53:00,942: INFO: common]: yaml file: ../config/config.yaml loaded successfully
+[2025-11-30 09:53:00,944: INFO: common]: yaml file: ../params.yaml loaded successfully
+[2025-11-30 09:53:00,944: INFO: common]: created directory at: artifacts
+[2025-11-30 09:53:00,944: INFO: 329316465]: Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_URL='https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing', local_data_file='artifacts/data_ingestion/CT-KIDNEY-DATASET-Normal-Cyst-Tumor-Stone.zip', unzip_dir='artifacts/data_ingestion')
+[2025-11-30 09:53:00,945: INFO: 185457943]: Downloading file from :[https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing] to :[artifacts/data_ingestion/CT-KIDNEY-DATASET-Normal-Cyst-Tumor-Stone.zip]
+[2025-11-30 09:55:44,556: INFO: common]: yaml file: ../config/config.yaml loaded successfully
+[2025-11-30 09:55:44,559: INFO: common]: yaml file: ../params.yaml loaded successfully
+[2025-11-30 09:55:44,561: INFO: common]: created directory at: artifacts
+[2025-11-30 09:55:44,561: INFO: 329316465]: Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_URL='https://drive.google.com/file/d/1ii_S5SGFQnTOnaXv5ApIY0X9BtE0RLcs/view?usp=sharing', local_data_file='artifacts/data_ingestion/CT-KIDNEY-DATASET-Normal-Cyst-Tumor-Stone.zip', unzip_dir='artifacts/data_ingestion')
+[2025-11-30 09:55:44,561: INFO: 185457943]: Downloading file from :[https://drive.google.com/file/d/1ii_S5SGFQnTOnaXv5ApIY0X9BtE0RLcs/view?usp=sharing] to :[artifacts/data_ingestion/CT-KIDNEY-DATASET-Normal-Cyst-Tumor-Stone.zip]
+[2025-11-30 09:59:36,293: INFO: common]: yaml file: ../config/config.yaml loaded successfully
+[2025-11-30 09:59:36,294: INFO: common]: yaml file: ../params.yaml loaded successfully
+[2025-11-30 09:59:36,295: INFO: common]: created directory at: artifacts
+[2025-11-30 09:59:36,295: INFO: 329316465]: Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_URL='https://drive.google.com/file/d/1ii_S5SGFQnTOnaXv5ApIY0X9BtE0RLcs/view?usp=sharing', local_data_file='artifacts/data_ingestion/CT-KIDNEY-DATASET-Normal-Cyst-Tumor-Stone.zip', unzip_dir='artifacts/data_ingestion')
+[2025-11-30 09:59:36,296: INFO: 396452231]: Downloading file from :[https://drive.google.com/file/d/1ii_S5SGFQnTOnaXv5ApIY0X9BtE0RLcs/view?usp=sharing] to :[artifacts/data_ingestion/CT-KIDNEY-DATASET-Normal-Cyst-Tumor-Stone.zip]
+[2025-11-30 09:59:37,059: INFO: 396452231]: Download completed!
+[2025-11-30 10:02:03,529: INFO: common]: yaml file: ../config/config.yaml loaded successfully
+[2025-11-30 10:02:03,530: INFO: common]: yaml file: ../params.yaml loaded successfully
+[2025-11-30 10:02:03,530: INFO: common]: created directory at: artifacts
+[2025-11-30 10:02:03,531: INFO: 329316465]: Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_URL='https://drive.google.com/uc?id=1ii_S5SGFQnTOnaXv5ApIY0X9BtE0RLcs', local_data_file='artifacts/data_ingestion/CT-KIDNEY-DATASET-Normal-Cyst-Tumor-Stone.zip', unzip_dir='artifacts/data_ingestion')
+[2025-11-30 10:02:03,531: INFO: 396452231]: File already exists. Skipping download.
+[2025-11-30 10:02:30,201: INFO: common]: yaml file: ../config/config.yaml loaded successfully
+[2025-11-30 10:02:30,202: INFO: common]: yaml file: ../params.yaml loaded successfully
+[2025-11-30 10:02:30,203: INFO: common]: created directory at: artifacts
+[2025-11-30 10:02:30,203: INFO: 329316465]: Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_URL='https://drive.google.com/uc?id=1ii_S5SGFQnTOnaXv5ApIY0X9BtE0RLcs', local_data_file='artifacts/data_ingestion/CT-KIDNEY-DATASET-Normal-Cyst-Tumor-Stone.zip', unzip_dir='artifacts/data_ingestion')
+[2025-11-30 10:02:30,203: INFO: 396452231]: Downloading file from :[https://drive.google.com/uc?id=1ii_S5SGFQnTOnaXv5ApIY0X9BtE0RLcs] to :[artifacts/data_ingestion/CT-KIDNEY-DATASET-Normal-Cyst-Tumor-Stone.zip]
+[2025-11-30 10:04:31,008: INFO: 396452231]: Download completed!
+[2025-11-30 10:04:42,626: INFO: 396452231]: Extracted zip file to :[artifacts/data_ingestion]
